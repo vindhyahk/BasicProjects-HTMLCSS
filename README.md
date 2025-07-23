@@ -1,2 +1,2 @@
 ## HTML & CSS Projects
-- My learning of core concepts of HTML and CSS and their various applications can be seen in the above projects.
+Documents my learning of HTML and CSS concepts by project based learning
